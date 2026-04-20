@@ -58,6 +58,7 @@ Run notebooks in order (01-05). All run on CPU, no GPU needed.
 | π·ln(m_P/m_τ) | 136.3 | -0.6% |
 
 ## Citation
+- wang, . liang . (2026). An Empirical Logarithmic Relation Between Gravitational and Electromagnetic Coupling Constants (v3.0). Zenodo. https://doi.org/10.5281/zenodo.19657875
 
 ```bibtex
 @misc{Wang2026PLB,
